@@ -1,0 +1,12 @@
+# Site settings
+name: Malea Grubb
+title: Malea Grubb
+email: maleangrubb@gmail.com
+username: Malea
+description: ""
+baseurl: ""
+url: "http://maleagrubb.com"
+
+# Build settings
+markdown: kramdown
+permalinks: pretty
